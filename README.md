@@ -1,2 +1,2 @@
-# pingu
-Merlin Kernel ports Repo
+# Pingu
+Merlin Kernel Package Manager's repo
